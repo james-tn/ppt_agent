@@ -1,0 +1,4 @@
+openai==1.86.0         # SDK that exposes AzureOpenAI + image tools  
+streamlit==1.45.1
+python-dotenv==1.1.0
+python-pptx==1.0.2
