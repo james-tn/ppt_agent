@@ -93,13 +93,6 @@ Navigate to `http://localhost:8501` in your browser.
   
 ---  
   
-## env File Example  
-  
-```env  
-AZURE_OPENAI_ENDPOINT="https://<your-resource>.openai.azure.com"  
-AZURE_OPENAI_API_KEY="<your-key>"  
-AZURE_OPENAI_CHAT_DEPLOYMENT="o3"  
-AZURE_OPENAI_API_VERSION="2025-02-01-preview"  
 
 
 
